@@ -1,0 +1,15 @@
+body {
+    background-image: url("C:\\Users\\giann\\Desktop\\Programación II\\ejemplo-web\\prueba-java-web\\src\\main\\webapp\\img\\vegvisir.jpg");
+    background-color: rgb(32, 30, 30);  
+  } 
+  
+  h1.prof{
+    text-align:center;
+    color: rgb(65, 56, 56);
+  }
+  h2.color{
+    color:rgb(65, 56, 56);
+  }
+  p1.color{
+    color:rgb(65, 56, 56);
+  }
