@@ -1,0 +1,27 @@
+body {
+    background-image: url("../img/1078877.jpg");
+    background-color: rgb(49, 49, 48);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+  } 
+  
+  h1.prof{
+    background-color: rgb(28, 28, 28);
+    border: 2px solid rgb(158, 153, 153);
+    text-align:center;
+    color: rgb(158, 153, 153);
+  }
+  h2.prop{
+    background-color: rgb(28, 28, 28);
+    border: 2px solid rgb(158, 153, 153);
+    color: rgb(158, 153, 153);
+    text-align: center;
+    font-size: medium;
+  }
+  p1.color{
+    background-color: rgb(28, 28, 28);
+    border: 2px solid rgb(158, 153, 153);
+    color: rgb(158, 153, 153);
+    font-size: larger;  
+  }
