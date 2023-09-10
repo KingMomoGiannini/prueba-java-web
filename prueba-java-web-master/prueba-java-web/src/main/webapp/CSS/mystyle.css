@@ -4,7 +4,6 @@ body {
     font-family: Verdana;
     height: 300px;
     margin: 30px;
-   /* background-position: center;*/
     background-size: cover;
   } 
   
@@ -14,16 +13,30 @@ body {
     padding: 10px;
   }
 
+  h2.tamFuente{
+    font-size: 15px;
+  }
+
   .margenh2{
     margin: 5px;
     margin-left:500px;
     margin-right:500px ;
-  /*
-    margin: 500px center;*/
   }
   
   .color{
     color: rgb(158, 153, 153);
+  }
+
+  a.linkBoton{
+    color: rgb(158, 153, 153);
+    background-color:  rgba(28, 28, 28,0.8);
+    border: 2px solid rgb(158, 153, 153);
+    padding: 10px;
+    display: inline-block;
+  }
+
+  a:hover,a:active{
+    background-color: black;
   }
 
   .textoCentradoColor{
